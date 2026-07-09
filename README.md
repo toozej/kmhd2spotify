@@ -1,5 +1,10 @@
 # 🎵 kmhd2playlist
 
+MIGRATED TO [monogo Go monorepo](https://github.com/toozej/monogo)
+
+
+
+
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/toozej/kmhd2playlist)
 [![Go Report Card](https://goreportcard.com/badge/github.com/toozej/kmhd2playlist)](https://goreportcard.com/report/github.com/toozej/kmhd2playlist)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/toozej/kmhd2playlist/cicd.yaml)
